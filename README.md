@@ -11,10 +11,13 @@ Prerquisitos.
 4.  instalar ffmpeg en tu sistema y asegurarte de que esté disponible en tu PATH de sistema. La forma de hacerlo varía según el sistema operativo que estés utilizando.
 Si estás en un sistema operativo Linux o macOS, puedes instalar ffmpeg usando el administrador de paquetes de tu sistema, por ejemplo, en
 Ubuntu y Debian:
+```
   sudo apt-get install ffmpeg
+```
 En macOS, puedes instalarlo con Homebrew:
+  ```console
   brew install ffmpeg
-
+```
 5. Descarga la libreria: 
     * moviepy
     * 
