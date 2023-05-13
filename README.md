@@ -8,6 +8,13 @@ Prerquisitos.
 1. Tener la consola de Google Cloud
 2. Habilitar el servido de google cloud
 3. Crear el API en google cloud para consumir el servicio.
-4. Descarga la libreria: 
+4.  instalar ffmpeg en tu sistema y asegurarte de que esté disponible en tu PATH de sistema. La forma de hacerlo varía según el sistema operativo que estés utilizando.
+5.  Si estás en un sistema operativo Linux o macOS, puedes instalar ffmpeg usando el administrador de paquetes de tu sistema, por ejemplo, en
+Ubuntu y Debian:
+  sudo apt-get install ffmpeg
+En macOS, puedes instalarlo con Homebrew:
+  brew install ffmpeg
+
+5. Descarga la libreria: 
     * moviepy
     * 
