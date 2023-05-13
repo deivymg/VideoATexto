@@ -8,3 +8,6 @@ Prerquisitos.
 1. Tener la consola de Google Cloud
 2. Habilitar el servido de google cloud
 3. Crear el API en google cloud para consumir el servicio.
+4. Descarga la libreria: 
+    * moviepy
+    * 
